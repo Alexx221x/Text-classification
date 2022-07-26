@@ -1,2 +1,2 @@
 # Text_classification
-Решение соревнования jigsaw-toxic-comment-classification-challenge
+Пример бинарной классификации текста по датасету соревнования jigsaw-toxic-comment-classification-challenge
