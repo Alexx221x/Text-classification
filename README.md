@@ -1,5 +1,5 @@
 # Text_classification
-Пример бинарной классификации текста по датасету соревнования jigsaw-toxic-comment-classification-challenge для всех желающих.
+Пример бинарной классификации текста по датасету соревнования [jigsaw-toxic-comment-classification-challenge]https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/() для всех желающих.
 
 
 ## Содержание
