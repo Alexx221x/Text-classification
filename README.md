@@ -1,6 +1,8 @@
 # Text classification (toxic comments)
 Пример бинарной классификации текста по датасету соревнования [jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data) для всех желающих.
 
+Рекомендую запуск в колабе: https://colab.research.google.com/drive/1gERCNDgBJXrV3djs2mSp6uBTu5Nwpwop?usp=sharing
+
 ## Содержание:
 
 1. [Работа с библиотеками](#c1)
